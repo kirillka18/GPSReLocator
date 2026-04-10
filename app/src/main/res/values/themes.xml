@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.GPSReLocator" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryDark</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+        <item name="colorSecondary">@color/colorPrimary</item>
+        <item name="colorSecondaryVariant">@color/colorPrimaryDark</item>
+        <item name="colorOnSecondary">@color/colorOnPrimary</item>
+        <item name="android:colorBackground">@color/colorBackground</item>
+        <item name="colorSurface">@color/colorSurface</item>
+        <item name="colorOnSurface">@color/colorOnSurface</item>
+        <item name="colorError">@color/colorError</item>
+        <item name="android:windowBackground">@color/colorBackground</item>
+        <item name="android:statusBarColor">@color/colorBackground</item>
+        <item name="android:navigationBarColor">@color/colorNavBackground</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+
+        <!-- Text styles -->
+        <item name="android:textColorPrimary">@color/colorOnSurface</item>
+        <item name="android:textColorSecondary">@color/colorOnSurfaceSecondary</item>
+
+        <!-- Button style -->
+        <item name="materialButtonStyle">@style/Widget.GPSReLocator.Button</item>
+        <item name="bottomNavigationStyle">@style/Widget.GPSReLocator.BottomNavigation</item>
+
+        <!-- All MaterialAlertDialogs use dark theme by default -->
+        <item name="materialAlertDialogTheme">@style/ThemeOverlay.GPSReLocator.Dialog</item>
+    </style>
+
+    <!-- Primary yellow button -->
+    <style name="Widget.GPSReLocator.Button" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">@color/colorPrimary</item>
+        <item name="android:textColor">@color/colorOnPrimary</item>
+        <item name="cornerRadius">12dp</item>
+        <item name="android:letterSpacing">0.02</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Outlined button -->
+    <style name="Widget.GPSReLocator.Button.Outlined" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="strokeColor">@color/colorPrimary</item>
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="cornerRadius">12dp</item>
+    </style>
+
+    <!-- Danger/Cancel button -->
+    <style name="Widget.GPSReLocator.Button.Cancel" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">@color/colorSurface3</item>
+        <item name="android:textColor">@color/colorError</item>
+        <item name="strokeColor">@color/colorError</item>
+        <item name="cornerRadius">12dp</item>
+    </style>
+
+    <!-- Bottom Navigation -->
+    <style name="Widget.GPSReLocator.BottomNavigation" parent="Widget.MaterialComponents.BottomNavigationView">
+        <item name="android:background">@color/colorNavBackground</item>
+        <item name="itemIconTint">@color/nav_item_color</item>
+        <item name="itemTextColor">@color/nav_item_color</item>
+        <item name="labelVisibilityMode">labeled</item>
+    </style>
+
+    <!-- Card style -->
+    <style name="Widget.GPSReLocator.Card" parent="Widget.MaterialComponents.CardView">
+        <item name="cardBackgroundColor">@color/colorSurface</item>
+        <item name="cardCornerRadius">16dp</item>
+        <item name="cardElevation">0dp</item>
+        <item name="strokeColor">@color/colorDivider</item>
+        <item name="strokeWidth">1dp</item>
+    </style>
+
+    <!-- Status chip -->
+    <style name="Widget.GPSReLocator.StatusChip" parent="Widget.MaterialComponents.Chip.Action">
+        <item name="android:textColor">@color/colorOnPrimary</item>
+        <item name="chipBackgroundColor">@color/colorPrimary</item>
+        <item name="chipCornerRadius">20dp</item>
+    </style>
+
+    <!-- Settings header text -->
+    <style name="TextAppearance.GPSReLocator.SectionHeader" parent="TextAppearance.MaterialComponents.Caption">
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:letterSpacing">0.1</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextAppearance.GPSReLocator.Title" parent="TextAppearance.MaterialComponents.Headline6">
+        <item name="android:textColor">@color/colorOnSurface</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextAppearance.GPSReLocator.Subtitle" parent="TextAppearance.MaterialComponents.Body2">
+        <item name="android:textColor">@color/colorOnSurfaceSecondary</item>
+    </style>
+</resources>

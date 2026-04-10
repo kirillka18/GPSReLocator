@@ -1,0 +1,60 @@
+com.pronin.gpsrelocator.app-sqlite-framework-2.4.0-0 /Users/kirillpronin/.gradle/caches/transforms-3/02a4a933e01c5298a598dc3226933aa9/transformed/sqlite-framework-2.4.0/res
+com.pronin.gpsrelocator.app-recyclerview-1.1.0-1 /Users/kirillpronin/.gradle/caches/transforms-3/0780361fbfc02d60bbedcf624638433b/transformed/recyclerview-1.1.0/res
+com.pronin.gpsrelocator.app-savedstate-1.2.1-2 /Users/kirillpronin/.gradle/caches/transforms-3/09105ff509fd54a92a41067aa5653918/transformed/savedstate-1.2.1/res
+com.pronin.gpsrelocator.app-play-services-basement-18.3.0-3 /Users/kirillpronin/.gradle/caches/transforms-3/0f6bf1708c647ca355964c1d7f2c173b/transformed/play-services-basement-18.3.0/res
+com.pronin.gpsrelocator.app-navigation-common-ktx-2.7.7-4 /Users/kirillpronin/.gradle/caches/transforms-3/1268196c950c42ae8f10129f546b101b/transformed/navigation-common-ktx-2.7.7/res
+com.pronin.gpsrelocator.app-appcompat-1.6.1-5 /Users/kirillpronin/.gradle/caches/transforms-3/1390ed0e93696117e0bd1340aa2458d6/transformed/appcompat-1.6.1/res
+com.pronin.gpsrelocator.app-navigation-fragment-2.7.7-6 /Users/kirillpronin/.gradle/caches/transforms-3/148ca1170416acaa3d2dde5116d954ce/transformed/navigation-fragment-2.7.7/res
+com.pronin.gpsrelocator.app-room-runtime-2.6.1-7 /Users/kirillpronin/.gradle/caches/transforms-3/14d13a8a143358ed406566e479e85cc4/transformed/room-runtime-2.6.1/res
+com.pronin.gpsrelocator.app-window-1.0.0-8 /Users/kirillpronin/.gradle/caches/transforms-3/20f68a6c67f1aeff3122ed90514d51c7/transformed/window-1.0.0/res
+com.pronin.gpsrelocator.app-core-ktx-1.12.0-9 /Users/kirillpronin/.gradle/caches/transforms-3/2acbe4481b7fc8c5f50b265534157997/transformed/core-ktx-1.12.0/res
+com.pronin.gpsrelocator.app-emoji2-1.2.0-10 /Users/kirillpronin/.gradle/caches/transforms-3/2ae845919254fd1c61ba530851d4711d/transformed/emoji2-1.2.0/res
+com.pronin.gpsrelocator.app-navigation-common-2.7.7-11 /Users/kirillpronin/.gradle/caches/transforms-3/399fe45d727cb0c0a283d35b961703fe/transformed/navigation-common-2.7.7/res
+com.pronin.gpsrelocator.app-material-1.11.0-12 /Users/kirillpronin/.gradle/caches/transforms-3/3a347358b13a1901f4709358b2ed9945/transformed/material-1.11.0/res
+com.pronin.gpsrelocator.app-navigation-fragment-ktx-2.7.7-13 /Users/kirillpronin/.gradle/caches/transforms-3/42d281bdc236aa4c11daea6b5419c2c7/transformed/navigation-fragment-ktx-2.7.7/res
+com.pronin.gpsrelocator.app-fragment-ktx-1.6.2-14 /Users/kirillpronin/.gradle/caches/transforms-3/42e428b97e2bfc27ddcc016bd0f291e9/transformed/fragment-ktx-1.6.2/res
+com.pronin.gpsrelocator.app-room-ktx-2.6.1-15 /Users/kirillpronin/.gradle/caches/transforms-3/57f8efbb0ce599f4b111215c8385e884/transformed/room-ktx-2.6.1/res
+com.pronin.gpsrelocator.app-coordinatorlayout-1.1.0-16 /Users/kirillpronin/.gradle/caches/transforms-3/585a83745d6f9e1fac22fc0bb53982d6/transformed/coordinatorlayout-1.1.0/res
+com.pronin.gpsrelocator.app-lifecycle-viewmodel-ktx-2.7.0-17 /Users/kirillpronin/.gradle/caches/transforms-3/5967ca13f047e3cf271ce783e6fb9de9/transformed/lifecycle-viewmodel-ktx-2.7.0/res
+com.pronin.gpsrelocator.app-annotation-experimental-1.3.0-18 /Users/kirillpronin/.gradle/caches/transforms-3/5d7b28e2c337942c251313b95151289f/transformed/annotation-experimental-1.3.0/res
+com.pronin.gpsrelocator.app-preference-1.2.1-19 /Users/kirillpronin/.gradle/caches/transforms-3/692cc6aa2b930d4bdbdd907cae9c39ee/transformed/preference-1.2.1/res
+com.pronin.gpsrelocator.app-cardview-1.0.0-20 /Users/kirillpronin/.gradle/caches/transforms-3/7192bc092133145dc42fdafeebe5edee/transformed/cardview-1.0.0/res
+com.pronin.gpsrelocator.app-profileinstaller-1.3.0-21 /Users/kirillpronin/.gradle/caches/transforms-3/78a0a8e2ee6a6f58e479b46914766cb1/transformed/profileinstaller-1.3.0/res
+com.pronin.gpsrelocator.app-lifecycle-runtime-2.7.0-22 /Users/kirillpronin/.gradle/caches/transforms-3/7940096e3e98252c892440d3f2c3373f/transformed/lifecycle-runtime-2.7.0/res
+com.pronin.gpsrelocator.app-lifecycle-livedata-2.7.0-23 /Users/kirillpronin/.gradle/caches/transforms-3/79c948d5a563d256f9c321ca2d8c85c7/transformed/lifecycle-livedata-2.7.0/res
+com.pronin.gpsrelocator.app-appcompat-resources-1.6.1-24 /Users/kirillpronin/.gradle/caches/transforms-3/8605a899b8773ac145ece6082f168511/transformed/appcompat-resources-1.6.1/res
+com.pronin.gpsrelocator.app-emoji2-views-helper-1.2.0-25 /Users/kirillpronin/.gradle/caches/transforms-3/8848a2782bf9a6bb6a60c97957b5d2ed/transformed/emoji2-views-helper-1.2.0/res
+com.pronin.gpsrelocator.app-constraintlayout-2.1.4-26 /Users/kirillpronin/.gradle/caches/transforms-3/899eb6999f1668ce0807a12ae7b79a42/transformed/constraintlayout-2.1.4/res
+com.pronin.gpsrelocator.app-lifecycle-livedata-core-ktx-2.7.0-27 /Users/kirillpronin/.gradle/caches/transforms-3/8a02bfbf57225495d28188bfdbf0f5f9/transformed/lifecycle-livedata-core-ktx-2.7.0/res
+com.pronin.gpsrelocator.app-navigation-runtime-2.7.7-28 /Users/kirillpronin/.gradle/caches/transforms-3/8d2863a2908ff3335a13f85e55d7d958/transformed/navigation-runtime-2.7.7/res
+com.pronin.gpsrelocator.app-slidingpanelayout-1.2.0-29 /Users/kirillpronin/.gradle/caches/transforms-3/90296e8df66f3e17f65f5ffac6c21631/transformed/slidingpanelayout-1.2.0/res
+com.pronin.gpsrelocator.app-lifecycle-viewmodel-2.7.0-30 /Users/kirillpronin/.gradle/caches/transforms-3/914177849f88652c8b10113371a0cf60/transformed/lifecycle-viewmodel-2.7.0/res
+com.pronin.gpsrelocator.app-navigation-ui-ktx-2.7.7-31 /Users/kirillpronin/.gradle/caches/transforms-3/93a8c88b79ae680ef5acbcc68c5242e7/transformed/navigation-ui-ktx-2.7.7/res
+com.pronin.gpsrelocator.app-lifecycle-viewmodel-savedstate-2.7.0-32 /Users/kirillpronin/.gradle/caches/transforms-3/a157c9b4883a01cf0c2cc48d1b8f08ea/transformed/lifecycle-viewmodel-savedstate-2.7.0/res
+com.pronin.gpsrelocator.app-viewpager2-1.0.0-33 /Users/kirillpronin/.gradle/caches/transforms-3/a32efcd196d0bec2db3454ba4a61052a/transformed/viewpager2-1.0.0/res
+com.pronin.gpsrelocator.app-lifecycle-livedata-core-2.7.0-34 /Users/kirillpronin/.gradle/caches/transforms-3/ab49a795ee8f8e9fbe38869e9ae78d2f/transformed/lifecycle-livedata-core-2.7.0/res
+com.pronin.gpsrelocator.app-core-runtime-2.2.0-35 /Users/kirillpronin/.gradle/caches/transforms-3/b142b6c20290fb766ef825d652df3fe1/transformed/core-runtime-2.2.0/res
+com.pronin.gpsrelocator.app-fragment-1.6.2-36 /Users/kirillpronin/.gradle/caches/transforms-3/ba479c5364b9226e41bd32845a53df1b/transformed/fragment-1.6.2/res
+com.pronin.gpsrelocator.app-lifecycle-livedata-ktx-2.7.0-37 /Users/kirillpronin/.gradle/caches/transforms-3/c0294535b50ee8a6645b14dd8894c87d/transformed/lifecycle-livedata-ktx-2.7.0/res
+com.pronin.gpsrelocator.app-sqlite-2.4.0-38 /Users/kirillpronin/.gradle/caches/transforms-3/c307c684d38fba66851d62f2b7db6750/transformed/sqlite-2.4.0/res
+com.pronin.gpsrelocator.app-preference-ktx-1.2.1-39 /Users/kirillpronin/.gradle/caches/transforms-3/c8a805952b19f0aee3e0a64090dd410a/transformed/preference-ktx-1.2.1/res
+com.pronin.gpsrelocator.app-lifecycle-process-2.7.0-40 /Users/kirillpronin/.gradle/caches/transforms-3/c9ce0b67a1cd31c1dda71517af8d7473/transformed/lifecycle-process-2.7.0/res
+com.pronin.gpsrelocator.app-startup-runtime-1.1.1-41 /Users/kirillpronin/.gradle/caches/transforms-3/d87d2cc011329dbc6915f58ad22ea6eb/transformed/startup-runtime-1.1.1/res
+com.pronin.gpsrelocator.app-core-1.12.0-42 /Users/kirillpronin/.gradle/caches/transforms-3/db3f6b8020888a7f113f2982cc217484/transformed/core-1.12.0/res
+com.pronin.gpsrelocator.app-lifecycle-runtime-ktx-2.7.0-43 /Users/kirillpronin/.gradle/caches/transforms-3/df9bf8b477c7e5223843375ddd94138f/transformed/lifecycle-runtime-ktx-2.7.0/res
+com.pronin.gpsrelocator.app-savedstate-ktx-1.2.1-44 /Users/kirillpronin/.gradle/caches/transforms-3/e184f8793a161536c01379421d5808c7/transformed/savedstate-ktx-1.2.1/res
+com.pronin.gpsrelocator.app-transition-1.4.1-45 /Users/kirillpronin/.gradle/caches/transforms-3/e2c7e7bc29ba70224650924f17ce0092/transformed/transition-1.4.1/res
+com.pronin.gpsrelocator.app-activity-ktx-1.8.2-46 /Users/kirillpronin/.gradle/caches/transforms-3/e518fc09e9ebadc456c06404b092f124/transformed/activity-ktx-1.8.2/res
+com.pronin.gpsrelocator.app-play-services-base-18.3.0-47 /Users/kirillpronin/.gradle/caches/transforms-3/eee83afac0750dea19d1469cbf7d87dd/transformed/play-services-base-18.3.0/res
+com.pronin.gpsrelocator.app-osmdroid-android-6.1.20-48 /Users/kirillpronin/.gradle/caches/transforms-3/f017e6d3c6922846740e083fcb37e0fa/transformed/osmdroid-android-6.1.20/res
+com.pronin.gpsrelocator.app-navigation-runtime-ktx-2.7.7-49 /Users/kirillpronin/.gradle/caches/transforms-3/f267978409a48942b618881286487b97/transformed/navigation-runtime-ktx-2.7.7/res
+com.pronin.gpsrelocator.app-activity-1.8.2-50 /Users/kirillpronin/.gradle/caches/transforms-3/f7b882c152d7c18f4ac24bfc93bafd12/transformed/activity-1.8.2/res
+com.pronin.gpsrelocator.app-drawerlayout-1.1.1-51 /Users/kirillpronin/.gradle/caches/transforms-3/fc1fa3c9bb04819bb481e180355a8187/transformed/drawerlayout-1.1.1/res
+com.pronin.gpsrelocator.app-navigation-ui-2.7.7-52 /Users/kirillpronin/.gradle/caches/transforms-3/fd0f80102e7a7c901aea121b02a0ca38/transformed/navigation-ui-2.7.7/res
+com.pronin.gpsrelocator.app-pngs-53 /Users/kirillpronin/funStuff/GPS ReLocator/app/build/generated/res/pngs/debug
+com.pronin.gpsrelocator.app-resValues-54 /Users/kirillpronin/funStuff/GPS ReLocator/app/build/generated/res/resValues/debug
+com.pronin.gpsrelocator.app-packageDebugResources-55 /Users/kirillpronin/funStuff/GPS ReLocator/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.pronin.gpsrelocator.app-packageDebugResources-56 /Users/kirillpronin/funStuff/GPS ReLocator/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.pronin.gpsrelocator.app-merged_res-57 /Users/kirillpronin/funStuff/GPS ReLocator/app/build/intermediates/merged_res/debug
+com.pronin.gpsrelocator.app-debug-58 /Users/kirillpronin/funStuff/GPS ReLocator/app/src/debug/res
+com.pronin.gpsrelocator.app-main-59 /Users/kirillpronin/funStuff/GPS ReLocator/app/src/main/res

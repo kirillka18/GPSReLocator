@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+        Dark overlay for MaterialAlertDialog.
+        Applied via: MaterialAlertDialogBuilder(ctx, R.style.ThemeOverlay_GPSReLocator_Dialog)
+    -->
+    <style name="ThemeOverlay.GPSReLocator.Dialog" parent="ThemeOverlay.MaterialComponents.MaterialAlertDialog">
+        <!-- Dialog background -->
+        <item name="colorSurface">@color/colorSurface</item>
+        <item name="colorOnSurface">@color/colorOnSurface</item>
+        <item name="android:colorBackground">@color/colorSurface</item>
+
+        <!-- Primary = yellow (for buttons, radio checks, etc.) -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+
+        <!-- Text colors -->
+        <item name="android:textColorPrimary">@color/colorOnSurface</item>
+        <item name="android:textColorSecondary">@color/colorOnSurfaceSecondary</item>
+
+        <!-- Title style -->
+        <item name="materialAlertDialogTitleTextStyle">@style/AlertDialog.GPSReLocator.Title</item>
+        <!-- Body text style -->
+        <item name="materialAlertDialogBodyTextStyle">@style/AlertDialog.GPSReLocator.Body</item>
+
+        <!-- Shape (rounded corners like cards) -->
+        <item name="shapeAppearanceMediumComponent">@style/ShapeAppearance.GPSReLocator.Dialog</item>
+
+        <!-- Positive button = yellow text -->
+        <item name="buttonBarPositiveButtonStyle">@style/AlertDialog.GPSReLocator.Button.Positive</item>
+        <!-- Negative button = grey text -->
+        <item name="buttonBarNegativeButtonStyle">@style/AlertDialog.GPSReLocator.Button.Negative</item>
+        <!-- Neutral button -->
+        <item name="buttonBarNeutralButtonStyle">@style/AlertDialog.GPSReLocator.Button.Negative</item>
+    </style>
+
+    <style name="AlertDialog.GPSReLocator.Title" parent="MaterialAlertDialog.MaterialComponents.Title.Text.CenterStacked">
+        <item name="android:textColor">@color/colorOnSurface</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="AlertDialog.GPSReLocator.Body" parent="MaterialAlertDialog.MaterialComponents.Body.Text">
+        <item name="android:textColor">@color/colorOnSurfaceSecondary</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:lineSpacingMultiplier">1.4</item>
+    </style>
+
+    <style name="ShapeAppearance.GPSReLocator.Dialog" parent="ShapeAppearance.MaterialComponents.MediumComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">16dp</item>
+    </style>
+
+    <style name="AlertDialog.GPSReLocator.Button.Positive" parent="Widget.MaterialComponents.Button.TextButton.Dialog">
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="AlertDialog.GPSReLocator.Button.Negative" parent="Widget.MaterialComponents.Button.TextButton.Dialog">
+        <item name="android:textColor">@color/colorOnSurfaceSecondary</item>
+    </style>
+
+</resources>

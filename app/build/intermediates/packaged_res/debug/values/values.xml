@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorBackground">#121212</color>
+    <color name="colorDivider">#2E2E2E</color>
+    <color name="colorError">#CF6679</color>
+    <color name="colorMapOverlay">#80121212</color>
+    <color name="colorNavBackground">#1A1A1A</color>
+    <color name="colorNavSelected">#FFD600</color>
+    <color name="colorNavUnselected">#666666</color>
+    <color name="colorOnBackground">#FFFFFF</color>
+    <color name="colorOnPrimary">#121212</color>
+    <color name="colorOnSurface">#FFFFFF</color>
+    <color name="colorOnSurfaceSecondary">#AAAAAA</color>
+    <color name="colorPrimary">#FFD600</color>
+    <color name="colorPrimaryDark">#C7A500</color>
+    <color name="colorPrimaryVariant">#FFE033</color>
+    <color name="colorSuccess">#4CAF50</color>
+    <color name="colorSurface">#1E1E1E</color>
+    <color name="colorSurface2">#252525</color>
+    <color name="colorSurface3">#2C2C2C</color>
+    <color name="colorWarning">#FF9800</color>
+    <color name="transparent">#00000000</color>
+    <dimen name="bottom_nav_extra_padding">8dp</dimen>
+    <dimen name="bottom_sheet_corner_radius">20dp</dimen>
+    <dimen name="bottom_sheet_peek_height">160dp</dimen>
+    <dimen name="button_corner_radius">12dp</dimen>
+    <dimen name="button_height">52dp</dimen>
+    <dimen name="card_corner_radius">16dp</dimen>
+    <dimen name="card_padding">16dp</dimen>
+    <dimen name="crosshair_size">48dp</dimen>
+    <dimen name="icon_size_lg">32dp</dimen>
+    <dimen name="icon_size_md">24dp</dimen>
+    <dimen name="icon_size_sm">20dp</dimen>
+    <dimen name="spacing_lg">24dp</dimen>
+    <dimen name="spacing_md">16dp</dimen>
+    <dimen name="spacing_sm">8dp</dimen>
+    <dimen name="spacing_xl">32dp</dimen>
+    <dimen name="spacing_xs">4dp</dimen>
+    <dimen name="status_dot_size">10dp</dimen>
+    <string name="app_name">GPS ReLocator</string>
+    <string name="btn_cancel_relocation">Отменить</string>
+    <string name="btn_go_here">Перейти</string>
+    <string name="btn_relocate">Релоцировать</string>
+    <string name="btn_save_place">Сохранить место</string>
+    <string name="coordinates_format">%.6f, %.6f</string>
+    <string name="delete">Удалить</string>
+    <string name="delete_place_confirm">Удалить это место?</string>
+    <string name="dialog_cancel">Отмена</string>
+    <string name="dialog_place_name_hint">Название места</string>
+    <string name="dialog_save">Сохранить</string>
+    <string name="dialog_save_place_title">Сохранить место</string>
+    <string name="error_location_unavailable">Геолокация недоступна</string>
+    <string name="error_mock_failed">Не удалось запустить мок-локацию. Проверьте настройки разработчика.</string>
+    <string name="location_mocking_active">Смена GPS активна</string>
+    <string name="map_type_dark">Тёмная (CartoDB)</string>
+    <string name="map_type_satellite">Спутник (Esri)</string>
+    <string name="map_type_standard">Стандарт (OSM)</string>
+    <string name="mock_permission_required">Установите это приложение как Mock Location App в настройках разработчика</string>
+    <string name="nav_map">Карта</string>
+    <string name="nav_saved">Места</string>
+    <string name="nav_settings">Настройки</string>
+    <string name="notification_channel_description">Активный процесс смены GPS локации</string>
+    <string name="notification_channel_name">GPS Релокация</string>
+    <string name="notification_stop">Остановить</string>
+    <string name="notification_text">Геолокация изменена</string>
+    <string name="notification_title">GPS ReLocator активен</string>
+    <string name="open_dev_settings">Открыть настройки разработчика</string>
+    <string name="permission_required">Необходимо разрешение на доступ к геолокации</string>
+    <string name="place_deleted">Место удалено</string>
+    <string name="place_saved">Место сохранено</string>
+    <string name="relocating">Релоцирую…</string>
+    <string name="relocation_active">Релокация активна</string>
+    <string name="relocation_stopped">Релокация остановлена</string>
+    <string name="saved_places_empty">Сохранённых мест нет.\nДобавьте места на главной вкладке ★</string>
+    <string name="saved_places_title">Сохранённые места</string>
+    <string name="settings_about_section">О приложении</string>
+    <string name="settings_accuracy_summary">Значение точности GPS в метрах</string>
+    <string name="settings_accuracy_title">Точность мок-локации</string>
+    <string name="settings_app_description">GPS ReLocator — приложение для принудительной смены GPS-геолокации. Работает через Mock Location API Android.</string>
+    <string name="settings_app_section">Приложение</string>
+    <string name="settings_author_title">Автор</string>
+    <string name="settings_author_value">Пронин К.Н.</string>
+    <string name="settings_how_to_text">1. Включите режим разработчика на телефоне\n2. Перейдите: Настройки → Параметры разработчика → Выбрать приложение для имитации местоположения\n3. Выберите GPS ReLocator\n4. Вернитесь в приложение и нажмите «Релоцировать»</string>
+    <string name="settings_how_to_title">Как использовать</string>
+    <string name="settings_keep_screen_on_summary">Не гасить экран во время релокации</string>
+    <string name="settings_keep_screen_on_title">Держать экран активным</string>
+    <string name="settings_licenses_title">Лицензии</string>
+    <string name="settings_map_section">Карта</string>
+    <string name="settings_map_type_title">Тип карты</string>
+    <string name="settings_mock_interval_summary">Как часто обновлять мок-локацию (мс)</string>
+    <string name="settings_mock_interval_title">Интервал обновления GPS</string>
+    <string name="settings_privacy_title">Политика конфиденциальности</string>
+    <string name="settings_show_compass_title">Показывать компас</string>
+    <string name="settings_title">Настройки</string>
+    <string name="settings_version_title">Версия сборки</string>
+    <string name="settings_zoom_level_title">Начальный зум</string>
+    <string name="status_active">GPS активен</string>
+    <string name="status_inactive">GPS не активен</string>
+    <string name="tap_map_hint">Переместите карту, чтобы выбрать локацию</string>
+    <style name="AlertDialog.GPSReLocator.Body" parent="MaterialAlertDialog.MaterialComponents.Body.Text">
+        <item name="android:textColor">@color/colorOnSurfaceSecondary</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:lineSpacingMultiplier">1.4</item>
+    </style>
+    <style name="AlertDialog.GPSReLocator.Button.Negative" parent="Widget.MaterialComponents.Button.TextButton.Dialog">
+        <item name="android:textColor">@color/colorOnSurfaceSecondary</item>
+    </style>
+    <style name="AlertDialog.GPSReLocator.Button.Positive" parent="Widget.MaterialComponents.Button.TextButton.Dialog">
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="AlertDialog.GPSReLocator.Title" parent="MaterialAlertDialog.MaterialComponents.Title.Text.CenterStacked">
+        <item name="android:textColor">@color/colorOnSurface</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="ShapeAppearance.GPSReLocator.Dialog" parent="ShapeAppearance.MaterialComponents.MediumComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">16dp</item>
+    </style>
+    <style name="TextAppearance.GPSReLocator.SectionHeader" parent="TextAppearance.MaterialComponents.Caption">
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:letterSpacing">0.1</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="TextAppearance.GPSReLocator.Subtitle" parent="TextAppearance.MaterialComponents.Body2">
+        <item name="android:textColor">@color/colorOnSurfaceSecondary</item>
+    </style>
+    <style name="TextAppearance.GPSReLocator.Title" parent="TextAppearance.MaterialComponents.Headline6">
+        <item name="android:textColor">@color/colorOnSurface</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="Theme.GPSReLocator" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryDark</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+        <item name="colorSecondary">@color/colorPrimary</item>
+        <item name="colorSecondaryVariant">@color/colorPrimaryDark</item>
+        <item name="colorOnSecondary">@color/colorOnPrimary</item>
+        <item name="android:colorBackground">@color/colorBackground</item>
+        <item name="colorSurface">@color/colorSurface</item>
+        <item name="colorOnSurface">@color/colorOnSurface</item>
+        <item name="colorError">@color/colorError</item>
+        <item name="android:windowBackground">@color/colorBackground</item>
+        <item name="android:statusBarColor">@color/colorBackground</item>
+        <item name="android:navigationBarColor">@color/colorNavBackground</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightNavigationBar">false</item>
+
+        
+        <item name="android:textColorPrimary">@color/colorOnSurface</item>
+        <item name="android:textColorSecondary">@color/colorOnSurfaceSecondary</item>
+
+        
+        <item name="materialButtonStyle">@style/Widget.GPSReLocator.Button</item>
+        <item name="bottomNavigationStyle">@style/Widget.GPSReLocator.BottomNavigation</item>
+
+        
+        <item name="materialAlertDialogTheme">@style/ThemeOverlay.GPSReLocator.Dialog</item>
+    </style>
+    <style name="ThemeOverlay.GPSReLocator.Dialog" parent="ThemeOverlay.MaterialComponents.MaterialAlertDialog">
+        
+        <item name="colorSurface">@color/colorSurface</item>
+        <item name="colorOnSurface">@color/colorOnSurface</item>
+        <item name="android:colorBackground">@color/colorSurface</item>
+
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+
+        
+        <item name="android:textColorPrimary">@color/colorOnSurface</item>
+        <item name="android:textColorSecondary">@color/colorOnSurfaceSecondary</item>
+
+        
+        <item name="materialAlertDialogTitleTextStyle">@style/AlertDialog.GPSReLocator.Title</item>
+        
+        <item name="materialAlertDialogBodyTextStyle">@style/AlertDialog.GPSReLocator.Body</item>
+
+        
+        <item name="shapeAppearanceMediumComponent">@style/ShapeAppearance.GPSReLocator.Dialog</item>
+
+        
+        <item name="buttonBarPositiveButtonStyle">@style/AlertDialog.GPSReLocator.Button.Positive</item>
+        
+        <item name="buttonBarNegativeButtonStyle">@style/AlertDialog.GPSReLocator.Button.Negative</item>
+        
+        <item name="buttonBarNeutralButtonStyle">@style/AlertDialog.GPSReLocator.Button.Negative</item>
+    </style>
+    <style name="Widget.GPSReLocator.BottomNavigation" parent="Widget.MaterialComponents.BottomNavigationView">
+        <item name="android:background">@color/colorNavBackground</item>
+        <item name="itemIconTint">@color/nav_item_color</item>
+        <item name="itemTextColor">@color/nav_item_color</item>
+        <item name="labelVisibilityMode">labeled</item>
+    </style>
+    <style name="Widget.GPSReLocator.Button" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">@color/colorPrimary</item>
+        <item name="android:textColor">@color/colorOnPrimary</item>
+        <item name="cornerRadius">12dp</item>
+        <item name="android:letterSpacing">0.02</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="Widget.GPSReLocator.Button.Cancel" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">@color/colorSurface3</item>
+        <item name="android:textColor">@color/colorError</item>
+        <item name="strokeColor">@color/colorError</item>
+        <item name="cornerRadius">12dp</item>
+    </style>
+    <style name="Widget.GPSReLocator.Button.Outlined" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="strokeColor">@color/colorPrimary</item>
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="cornerRadius">12dp</item>
+    </style>
+    <style name="Widget.GPSReLocator.Card" parent="Widget.MaterialComponents.CardView">
+        <item name="cardBackgroundColor">@color/colorSurface</item>
+        <item name="cardCornerRadius">16dp</item>
+        <item name="cardElevation">0dp</item>
+        <item name="strokeColor">@color/colorDivider</item>
+        <item name="strokeWidth">1dp</item>
+    </style>
+    <style name="Widget.GPSReLocator.StatusChip" parent="Widget.MaterialComponents.Chip.Action">
+        <item name="android:textColor">@color/colorOnPrimary</item>
+        <item name="chipBackgroundColor">@color/colorPrimary</item>
+        <item name="chipCornerRadius">20dp</item>
+    </style>
+</resources>

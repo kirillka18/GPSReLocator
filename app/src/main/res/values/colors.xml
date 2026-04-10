@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary yellow accent -->
+    <color name="colorPrimary">#FFD600</color>
+    <color name="colorPrimaryDark">#C7A500</color>
+    <color name="colorPrimaryVariant">#FFE033</color>
+
+    <!-- Dark backgrounds -->
+    <color name="colorBackground">#121212</color>
+    <color name="colorSurface">#1E1E1E</color>
+    <color name="colorSurface2">#252525</color>
+    <color name="colorSurface3">#2C2C2C</color>
+
+    <!-- Text colors -->
+    <color name="colorOnBackground">#FFFFFF</color>
+    <color name="colorOnSurface">#FFFFFF</color>
+    <color name="colorOnSurfaceSecondary">#AAAAAA</color>
+    <color name="colorOnPrimary">#121212</color>
+
+    <!-- Status colors -->
+    <color name="colorError">#CF6679</color>
+    <color name="colorSuccess">#4CAF50</color>
+    <color name="colorWarning">#FF9800</color>
+
+    <!-- Navigation -->
+    <color name="colorNavBackground">#1A1A1A</color>
+    <color name="colorNavSelected">#FFD600</color>
+    <color name="colorNavUnselected">#666666</color>
+
+    <!-- Map overlay -->
+    <color name="colorMapOverlay">#80121212</color>
+
+    <!-- Divider -->
+    <color name="colorDivider">#2E2E2E</color>
+
+    <!-- Transparent -->
+    <color name="transparent">#00000000</color>
+</resources>
